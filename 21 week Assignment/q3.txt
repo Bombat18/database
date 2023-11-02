@@ -1,0 +1,10 @@
+A Database Management System (DBMS) is a software application or system that enables users to interact with a database. It provides a set of tools and interfaces for creating, storing, retrieving, updating, and managing data in a structured and organized manner.
+
+The Need for DBMS
+
+Data Organization
+
+Efficient Data Retrieval
+
+Data Integrity and Security
+

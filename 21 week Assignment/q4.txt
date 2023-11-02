@@ -1,0 +1,11 @@
+
+1. Data Redundancy and Inconsistency
+
+2. Limited Data Integrity
+
+3. Limited Query Capabilities
+
+4. Limited Concurrency Control
+
+5.  Scalability Issues
+

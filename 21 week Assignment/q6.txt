@@ -1,0 +1,11 @@
+Types of Data Modeling:
+
+1. Conceptual Data Modeling
+
+2. Logical Data Modeling
+
+3. Physical Data Modeling
+
+4. Object-Oriented Data Modeling:
+
+5. NoSQL Data Modeling:

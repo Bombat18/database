@@ -1,0 +1,30 @@
+
+1. **Hierarchical DBMS (HDBMS):**
+   - **Data Model:** Organizes data in a tree-like structure with a root node and child nodes. Each child node can have one or more parent nodes.
+   - **Example:** IMS (Information Management System) by IBM.
+
+   
+2. **Network DBMS (NDBMS):**
+   - **Data Model:** Extends the hierarchical model by allowing nodes to have multiple parent nodes, creating a more complex network structure.
+   - **Example:** IDMS (Integrated Database Management System).
+
+   
+3. **Relational DBMS (RDBMS):**
+   - **Data Model:** Organizes data into tables (relations) consisting of rows (tuples) and columns (attributes). Relationships between tables are established using keys.
+   - **Example:** MySQL, PostgreSQL, Oracle Database.
+
+4. **Object-Oriented DBMS (OODBMS):**
+   - **Data Model:** Extends the relational model to include complex data types (objects) with attributes and methods. Allows for object-oriented programming principles within the database.
+   - **Example:** db4o, ObjectStore.
+
+  
+5. **Object-Relational DBMS (ORDBMS):**
+   - **Data Model:** Combines features of both relational and object-oriented models. Allows for the storage of complex data types and supports relationships between tables.
+   - **Example:** PostgreSQL (with support for user-defined types and functions).
+
+   
+6. **NoSQL DBMS:**
+   - **Data Model:** Encompasses various non-relational (non-SQL) data models, including document-oriented, key-value, wide-column, and graph databases.
+   - **Examples:** MongoDB (document-oriented), Redis (key-value), Cassandra (wide-column), Neo4j (graph).
+
+   

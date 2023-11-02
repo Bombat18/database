@@ -1,0 +1,4 @@
+->  File-based storage systems are a traditional method of organizing and storing data on a computer. In a file-based system, data is stored in individual files, each with its own unique name and location in a directory hierarchy.
+
+Data Redundancy and Inconsistency
+Scalability Issues

@@ -1,0 +1,4 @@
+
+->  A database is a structured collection of data that is organized and stored in a way that allows  for easy retrieval, management, and manipulation.
+
+->  Products: This table could contain columns for product ID, name, price, quantity in stock, etc.
